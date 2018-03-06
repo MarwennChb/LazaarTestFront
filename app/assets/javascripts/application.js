@@ -10,6 +10,9 @@
 // Read Sprockets README (https://github.com/rails/sprockets#sprockets-directives) for details
 // about supported directives.
 //
+//= require rails-ujs
+//= require turbolinks
+//= require_tree
 //= require vendor/modernizr-2.8.3.min
 //= require vendor/jquery-1.12.0.min
 //= require bootstrap.min
@@ -18,5 +21,3 @@
 //= require owl.carousel.min
 //= require waypoints.min
 //= require main
-//= require rails-ujs
-//= require turbolinks
