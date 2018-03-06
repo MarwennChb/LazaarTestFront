@@ -12,4 +12,12 @@
 //
 //= require rails-ujs
 //= require turbolinks
-//= require_tree .
+//= require_tree
+//= require vendor/modernizr-2.8.3.min
+//= require vendor/jquery-1.12.0.min
+//= require bootstrap.min
+//= require plugins
+//= require slick.min
+//= require owl.carousel.min
+//= require waypoints.min
+//= require main
